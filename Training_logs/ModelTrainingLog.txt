@@ -1,0 +1,103 @@
+2024-09-19/21:47:32		Start of Training
+2024-09-19/21:47:32		Entered the get_data method of data_getter_training
+2024-09-19/21:47:32		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:47:32		column has been removed
+2024-09-19/21:47:32		Entered the is_null method of preprocessor class 
+2024-09-19/21:47:32		Data has been removed
+2024-09-19/21:47:32		Unsuccessful End of Training
+2024-09-19/21:53:56		Start of Training
+2024-09-19/21:53:56		Entered the get_data method of data_getter_training
+2024-09-19/21:53:56		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:53:56		column has been removed
+2024-09-19/21:53:56		Entered the is_null method of preprocessor class 
+2024-09-19/21:53:56		Data has been removed
+2024-09-19/21:53:56		Unsuccessful End of Training
+2024-09-19/21:54:28		Start of Training
+2024-09-19/21:54:28		Entered the get_data method of data_getter_training
+2024-09-19/21:54:28		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:54:28		column has been removed
+2024-09-19/21:54:28		Entered the is_null method of preprocessor class 
+2024-09-19/21:54:28		Data has been removed
+2024-09-19/21:54:28		Entered the outlier treatement mehod of preproessor class
+2024-09-19/21:54:28		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2024-09-19/21:54:28		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2024-09-19/21:54:28		Unsuccessful End of Training
+2024-09-19/21:55:17		Start of Training
+2024-09-19/21:55:17		Entered the get_data method of data_getter_training
+2024-09-19/21:55:17		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:55:17		column has been removed
+2024-09-19/21:55:17		Entered the is_null method of preprocessor class 
+2024-09-19/21:55:17		Data has been removed
+2024-09-19/21:55:17		Entered the outlier treatement mehod of preproessor class
+2024-09-19/21:55:17		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2024-09-19/21:55:17		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2024-09-19/21:55:17		Entered the get_data method of data_getter_training
+2024-09-19/21:55:17		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:55:18		Entered the encode_categorical_columns method of the Preprocessor class
+2024-09-19/21:55:18		treating department column successfull
+2024-09-19/21:55:18		treating region column successfull
+2024-09-19/21:55:18		treating education column successfull
+2024-09-19/21:55:18		treating getting dummies for gender column successfull
+2024-09-19/21:55:18		Entered the scaling_of_numcol method of preprocessor class
+2024-09-19/21:55:18		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-09-19/21:55:18		Unsuccessful End of Training
+2024-09-19/21:58:14		Start of Training
+2024-09-19/21:58:14		Entered the get_data method of data_getter_training
+2024-09-19/21:58:14		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:58:14		column has been removed
+2024-09-19/21:58:14		Entered the is_null method of preprocessor class 
+2024-09-19/21:58:14		Data has been removed
+2024-09-19/21:58:14		Entered the outlier treatement mehod of preproessor class
+2024-09-19/21:58:14		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2024-09-19/21:58:14		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2024-09-19/21:58:14		Entered the get_data method of data_getter_training
+2024-09-19/21:58:15		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:58:15		Entered the encode_categorical_columns method of the Preprocessor class
+2024-09-19/21:58:15		treating department column successfull
+2024-09-19/21:58:15		treating region column successfull
+2024-09-19/21:58:15		treating education column successfull
+2024-09-19/21:58:15		treating getting dummies for gender column successfull
+2024-09-19/21:58:15		Entered the scaling_of_numcol method of preprocessor class
+2024-09-19/21:58:15		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-09-19/21:58:15		Entered the seperate_label_feature method of preprocessor class
+2024-09-19/21:58:15		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-09-20/14:20:24		Start of Training
+2024-09-20/14:20:24		Entered the get_data method of data_getter_training
+2024-09-20/14:20:24		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/14:20:24		column has been removed
+2024-09-20/14:20:24		Entered the is_null method of preprocessor class 
+2024-09-20/14:20:24		Data has been removed
+2024-09-20/14:20:24		Entered the outlier treatement mehod of preproessor class
+2024-09-20/14:20:24		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2024-09-20/14:20:24		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2024-09-20/14:20:24		Entered the get_data method of data_getter_training
+2024-09-20/14:20:25		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/14:20:25		Entered the encode_categorical_columns method of the Preprocessor class
+2024-09-20/14:20:25		treating department column successfull
+2024-09-20/14:20:25		treating region column successfull
+2024-09-20/14:20:25		treating education column successfull
+2024-09-20/14:20:25		treating getting dummies for gender column successfull
+2024-09-20/14:20:25		Entered the scaling_of_numcol method of preprocessor class
+2024-09-20/14:20:25		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-09-20/14:20:25		Entered the seperate_label_feature method of preprocessor class
+2024-09-20/14:20:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-09-20/22:05:36		Start of Training
+2024-09-20/22:05:36		Entered the get_data method of data_getter_training
+2024-09-20/22:05:37		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:05:37		column has been removed
+2024-09-20/22:05:37		Entered the is_null method of preprocessor class 
+2024-09-20/22:05:37		Data has been removed
+2024-09-20/22:05:37		Entered the outlier treatement mehod of preproessor class
+2024-09-20/22:05:37		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2024-09-20/22:05:37		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2024-09-20/22:05:37		Entered the get_data method of data_getter_training
+2024-09-20/22:05:37		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:05:37		Entered the encode_categorical_columns method of the Preprocessor class
+2024-09-20/22:05:37		treating department column successfull
+2024-09-20/22:05:37		treating region column successfull
+2024-09-20/22:05:37		treating education column successfull
+2024-09-20/22:05:37		treating getting dummies for gender column successfull
+2024-09-20/22:05:37		Entered the scaling_of_numcol method of preprocessor class
+2024-09-20/22:05:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-09-20/22:05:37		Entered the seperate_label_feature method of preprocessor class
+2024-09-20/22:05:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class

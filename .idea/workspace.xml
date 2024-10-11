@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25ad0718-c6f8-4da8-bc42-4b612840cf2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Employee_promotion_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EDA and modelBuilding/Internship_Employee_promotionPrediction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EDA and modelBuilding/PredictedTestDataResult_Promotion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EDA and modelBuilding/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EDA and modelBuilding/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModelFinder_logs/model_Log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training_logs/ModelTrainingLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_model_tuner/tuner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_loader/data_getter_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_loader/data_getter_training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_logs/data_load_logs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_preprocessing/data_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_operation/file_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/FinalXGBModel_new/FinalXGBModel_new.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prediction_logs/Prediction_api_Log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prediction_logs/prediction_logs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prediction_of_UserInput/prediction_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_model/training_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kYgJHbmd36mxtJu6WzVrzTBnRg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_getter_testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_getter_training.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prediction_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.training_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python/Employee_promotion_system&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\Employee_promotion_system" />
+      <recent name="D:\python\Employee_promotion_system\EDA and modelBuilding" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Employee_promotion_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25ad0718-c6f8-4da8-bc42-4b612840cf2c" name="Changes" comment="" />
+      <created>1723465851036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723465851036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,102 @@
+2024-08-16/20:53:38		Entered the get_data method of data_getter_testing
+2024-08-16/20:53:38		data loaded successfully,exited the get_data method
+2024-08-16/21:08:49		Entered the get_data method of data_getter_testing
+2024-08-16/21:08:49		data loaded successfully,exited the get_data method
+2024-08-16/21:14:06		Entered the get_data method of data_getter_training
+2024-08-16/21:14:06		data loaded successfully,exited the get_data method of data_getter_training
+2024-08-16/21:14:24		Entered the get_data method of data_getter_training
+2024-08-16/21:14:24		data loaded successfully,exited the get_data method of data_getter_training
+2024-08-19/15:21:51		Entered the get_data method of data_getter_training
+2024-08-19/15:21:51		data loaded successfully,exited the get_data method of data_getter_training
+2024-08-19/15:22:05		Entered the get_data method of data_getter_testing
+2024-08-19/15:22:05		data loaded successfully,exited the get_data method
+2024-09-19/20:42:43		Entered the get_data method of data_getter_training
+2024-09-19/20:42:43		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/20:43:40		Entered the get_data method of data_getter_training
+2024-09-19/20:43:40		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:04:06		Entered the get_data method of data_getter_training
+2024-09-19/21:04:06		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:47:15		Entered the get_data method of data_getter_training
+2024-09-19/21:47:15		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:53:55		Entered the get_data method of data_getter_training
+2024-09-19/21:53:55		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:54:28		Entered the get_data method of data_getter_training
+2024-09-19/21:54:28		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:55:17		Entered the get_data method of data_getter_training
+2024-09-19/21:55:17		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-19/21:58:14		Entered the get_data method of data_getter_training
+2024-09-19/21:58:14		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:01:40		Entered the get_data method of data_getter_training
+2024-09-20/13:01:40		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:19:03		Entered the get_data method of data_getter_training
+2024-09-20/13:19:03		Exception occured in the get_data method,Exception:[Errno 2] No such file or directory: '../data/train.csv'
+2024-09-20/13:19:03		Data load unsuccessful ,Exited the get_data method of data_getter_training
+2024-09-20/13:20:52		Entered the get_data method of data_getter_training
+2024-09-20/13:20:52		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:36:55		Entered the get_data method of data_getter_training
+2024-09-20/13:36:55		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:37:26		Entered the get_data method of data_getter_training
+2024-09-20/13:37:26		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:38:52		Entered the get_data method of data_getter_training
+2024-09-20/13:38:52		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:44:05		Entered the get_data method of data_getter_training
+2024-09-20/13:44:05		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/13:56:46		Entered the get_data method of data_getter_training
+2024-09-20/13:56:46		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/14:04:42		Entered the get_data method of data_getter_training
+2024-09-20/14:04:42		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/14:05:21		Entered the get_data method of data_getter_training
+2024-09-20/14:05:21		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/14:10:50		Entered the get_data method of data_getter_training
+2024-09-20/14:10:51		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/14:20:23		Entered the get_data method of data_getter_training
+2024-09-20/14:20:23		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/21:53:35		Entered the get_data method of data_getter_testing
+2024-09-20/21:53:35		data loaded successfully,exited the get_data method
+2024-09-20/22:00:17		Entered the get_data method of data_getter_training
+2024-09-20/22:00:17		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:05:35		Entered the get_data method of data_getter_training
+2024-09-20/22:05:35		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:27:51		Entered the get_data method of data_getter_training
+2024-09-20/22:27:51		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:30:18		Entered the get_data method of data_getter_training
+2024-09-20/22:30:18		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:32:47		Entered the get_data method of data_getter_training
+2024-09-20/22:32:47		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:34:52		Entered the get_data method of data_getter_training
+2024-09-20/22:34:52		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:43:33		Entered the get_data method of data_getter_training
+2024-09-20/22:43:33		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:43:49		Entered the get_data method of data_getter_training
+2024-09-20/22:43:49		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:51:41		Entered the get_data method of data_getter_training
+2024-09-20/22:51:41		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:53:10		Entered the get_data method of data_getter_training
+2024-09-20/22:53:10		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:53:43		Entered the get_data method of data_getter_training
+2024-09-20/22:53:43		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:55:31		Entered the get_data method of data_getter_training
+2024-09-20/22:55:31		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:56:09		Entered the get_data method of data_getter_training
+2024-09-20/22:56:09		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:56:23		Entered the get_data method of data_getter_training
+2024-09-20/22:56:23		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:56:37		Entered the get_data method of data_getter_training
+2024-09-20/22:56:38		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:56:59		Entered the get_data method of data_getter_training
+2024-09-20/22:56:59		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:58:43		Entered the get_data method of data_getter_training
+2024-09-20/22:58:43		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/22:58:52		Entered the get_data method of data_getter_training
+2024-09-20/22:58:52		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/23:00:32		Entered the get_data method of data_getter_training
+2024-09-20/23:00:32		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/23:03:12		Entered the get_data method of data_getter_training
+2024-09-20/23:03:12		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-20/23:05:00		Entered the get_data method of data_getter_training
+2024-09-20/23:05:00		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-22/11:12:19		Entered the get_data method of data_getter_training
+2024-09-22/11:12:19		data loaded successfully,exited the get_data method of data_getter_training
+2024-09-22/11:21:10		Entered the get_data method of data_getter_training
+2024-09-22/11:21:10		Exception occured in the get_data method,Exception:[Errno 2] No such file or directory: 'data/train.csv'
+2024-09-22/11:21:10		Data load unsuccessful ,Exited the get_data method of data_getter_training
